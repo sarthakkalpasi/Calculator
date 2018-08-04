@@ -1,0 +1,42 @@
+body {
+   background: linear-gradient(to bottom right, blue, red);
+   justify-content: center;
+}
+input {
+	height: 50px;
+	width: 50px;
+	font-size: 25px;
+	border: none;
+    background-color: #6f6f6f; 
+    color: white;
+	margin: 0;
+	padding: .75rem .25rem;
+	border-radius: 8px;
+	font-family: courier;
+	font-style: bold;
+}
+#display {
+	background-color:#bccd95;
+	width: 295px;
+	font-size: 25px;
+	color: black;
+	padding-left: 10px; 
+	padding-right: 10px;
+	border-radius: 8px;
+    margin-top: 22px;
+}
+div{
+	background-color: #3d4543;
+	height:350px;
+	width:340px;
+	position: relative;
+	justify-content: center;
+	border-radius: 14px
+}
+#equal {
+	height: 110px;
+	background-color: #f96a3e;
+	color: black;
+	font-style: bold;
+	font-size: 35px;
+}
